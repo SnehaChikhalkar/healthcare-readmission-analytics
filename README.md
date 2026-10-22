@@ -41,9 +41,6 @@ The tuned Logistic Regression has the highest recall and F2-score in this compar
 - Feature importance and SHAP associations are not causal explanations.
 - The model is not clinically validated and must not be used for real patient-care decisions.
 
-## Dataset and privacy note
-The dataset is not included in this repository. Confirm with the course instructor that the dataset is approved for this project and follow the applicable dataset terms. Do not upload patient-level data, credentials, or private files.
-
 ## Reproducibility
 Open the notebook in Google Colab or Jupyter and run the cells in order after obtaining the approved dataset and installing the packages listed in `requirements.txt`. The notebook currently contains Google Colab-specific setup cells, so review dataset-path cells before running it in another environment.
 
